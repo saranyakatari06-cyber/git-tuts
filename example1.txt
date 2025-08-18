@@ -1,1 +1,2 @@
+HI this is scnd example  - dev1
 Hi this a example text file
