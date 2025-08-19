@@ -1,2 +1,2 @@
-HI this is scnd example  - dev1
+HI this is scendnd example  - dev1
 Hi this a example text file
