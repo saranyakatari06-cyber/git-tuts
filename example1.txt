@@ -1,2 +1,1 @@
-HI this is scendnd example  - dev1
-Hi this a example text file
+Hi this a example text file.
