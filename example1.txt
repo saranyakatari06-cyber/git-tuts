@@ -1,1 +1,2 @@
 Hi This is a second example file
+Hi this a example text file
