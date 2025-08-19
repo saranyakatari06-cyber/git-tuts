@@ -1,1 +1,1 @@
-Hi This is saranya Katari.I'm a Python full stack developer with 5 years of experience.I have create one python file named as Demmo.py and 2 example text files.created a branches named master, dev1 an dev2.I have made changes in example1.txt file in dev1 and commited to remote repository and after commiting chnages in dev1 i have changed text in example1.txt file and commited changes from dev2 and then it throws an error and i have accepted bothe the changes into the example1.txt file and then cloned the file to the remote repository.
+
